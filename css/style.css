@@ -65,7 +65,7 @@ li{
 	float: left;
 	list-style-type: none;
 	padding: 10px;
-	background: #4F7643;
+	background: #80416F;
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
@@ -94,7 +94,7 @@ aside{
 footer{
 width: 1000px;
 height: 80px;
-background: #B9DF82;
+background: #F592B3 ;
 float: left;
 margin-top: 20px;
 border-radius: 10px;
