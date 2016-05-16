@@ -14,7 +14,7 @@
 
 /*ETIQUETAS*/
 body{
-background-image: url(../img/FONDO2.jpg);
+background-image: url(../img/FONDO3.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -52,7 +52,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: #B9DF82;
+background: #F592B3;
 border-radius: 10px;
 
 }
@@ -83,7 +83,7 @@ section{
 aside{
 
 	width: 280px;
-	background: #D3F6A6;
+	background: #FAD6F5;
 	height: 1000px;
 	float: left;
 	margin-left: 20px;
